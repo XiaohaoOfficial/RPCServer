@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package header;
+message RpcHeader
+{
+    int32 argsSize  =1;
+    string serviceName =2 ;
+    string methodName =3 ;
+}
+
+

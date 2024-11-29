@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/yanghao/Code/mprpc/build",
+  "command": "/usr/bin/g++ -I/home/yanghao/Code/mprpc/src/include -I/home/yanghao/Code/mprpc/example -g -o src/CMakeFiles/mprpc.dir/logger.cpp.o -c /home/yanghao/Code/mprpc/src/logger.cpp",
+  "file": "/home/yanghao/Code/mprpc/src/logger.cpp"
+},
+{
+  "directory": "/home/yanghao/Code/mprpc/build",
+  "command": "/usr/bin/g++ -I/home/yanghao/Code/mprpc/src/include -I/home/yanghao/Code/mprpc/example -g -o src/CMakeFiles/mprpc.dir/mprpcapplication.cpp.o -c /home/yanghao/Code/mprpc/src/mprpcapplication.cpp",
+  "file": "/home/yanghao/Code/mprpc/src/mprpcapplication.cpp"
+},
+{
+  "directory": "/home/yanghao/Code/mprpc/build",
+  "command": "/usr/bin/g++ -I/home/yanghao/Code/mprpc/src/include -I/home/yanghao/Code/mprpc/example -g -o src/CMakeFiles/mprpc.dir/mprpcchannel.cpp.o -c /home/yanghao/Code/mprpc/src/mprpcchannel.cpp",
+  "file": "/home/yanghao/Code/mprpc/src/mprpcchannel.cpp"
+},
+{
+  "directory": "/home/yanghao/Code/mprpc/build",
+  "command": "/usr/bin/g++ -I/home/yanghao/Code/mprpc/src/include -I/home/yanghao/Code/mprpc/example -g -o src/CMakeFiles/mprpc.dir/mprpcconfig.cpp.o -c /home/yanghao/Code/mprpc/src/mprpcconfig.cpp",
+  "file": "/home/yanghao/Code/mprpc/src/mprpcconfig.cpp"
+},
+{
+  "directory": "/home/yanghao/Code/mprpc/build",
+  "command": "/usr/bin/g++ -I/home/yanghao/Code/mprpc/src/include -I/home/yanghao/Code/mprpc/example -g -o src/CMakeFiles/mprpc.dir/mprpccontroller.cpp.o -c /home/yanghao/Code/mprpc/src/mprpccontroller.cpp",
+  "file": "/home/yanghao/Code/mprpc/src/mprpccontroller.cpp"
+},
+{
+  "directory": "/home/yanghao/Code/mprpc/build",
+  "command": "/usr/bin/g++ -I/home/yanghao/Code/mprpc/src/include -I/home/yanghao/Code/mprpc/example -g -o src/CMakeFiles/mprpc.dir/rpcheader.pb.cc.o -c /home/yanghao/Code/mprpc/src/rpcheader.pb.cc",
+  "file": "/home/yanghao/Code/mprpc/src/rpcheader.pb.cc"
+},
+{
+  "directory": "/home/yanghao/Code/mprpc/build",
+  "command": "/usr/bin/g++ -I/home/yanghao/Code/mprpc/src/include -I/home/yanghao/Code/mprpc/example -g -o src/CMakeFiles/mprpc.dir/rpcprovider.cpp.o -c /home/yanghao/Code/mprpc/src/rpcprovider.cpp",
+  "file": "/home/yanghao/Code/mprpc/src/rpcprovider.cpp"
+},
+{
+  "directory": "/home/yanghao/Code/mprpc/build",
+  "command": "/usr/bin/g++ -I/home/yanghao/Code/mprpc/src/include -I/home/yanghao/Code/mprpc/example -g -o src/CMakeFiles/mprpc.dir/zookeeperutil.cc.o -c /home/yanghao/Code/mprpc/src/zookeeperutil.cc",
+  "file": "/home/yanghao/Code/mprpc/src/zookeeperutil.cc"
+},
+{
+  "directory": "/home/yanghao/Code/mprpc/build",
+  "command": "/usr/bin/g++ -I/home/yanghao/Code/mprpc/src/include -I/home/yanghao/Code/mprpc/example -g -o example/callee/CMakeFiles/provider.dir/userservice.cpp.o -c /home/yanghao/Code/mprpc/example/callee/userservice.cpp",
+  "file": "/home/yanghao/Code/mprpc/example/callee/userservice.cpp"
+},
+{
+  "directory": "/home/yanghao/Code/mprpc/build",
+  "command": "/usr/bin/g++ -I/home/yanghao/Code/mprpc/src/include -I/home/yanghao/Code/mprpc/example -g -o example/callee/CMakeFiles/provider.dir/__/user.pb.cc.o -c /home/yanghao/Code/mprpc/example/user.pb.cc",
+  "file": "/home/yanghao/Code/mprpc/example/user.pb.cc"
+},
+{
+  "directory": "/home/yanghao/Code/mprpc/build",
+  "command": "/usr/bin/g++ -I/home/yanghao/Code/mprpc/src/include -I/home/yanghao/Code/mprpc/example -g -o example/caller/CMakeFiles/client.dir/userclient.cpp.o -c /home/yanghao/Code/mprpc/example/caller/userclient.cpp",
+  "file": "/home/yanghao/Code/mprpc/example/caller/userclient.cpp"
+},
+{
+  "directory": "/home/yanghao/Code/mprpc/build",
+  "command": "/usr/bin/g++ -I/home/yanghao/Code/mprpc/src/include -I/home/yanghao/Code/mprpc/example -g -o example/caller/CMakeFiles/client.dir/__/user.pb.cc.o -c /home/yanghao/Code/mprpc/example/user.pb.cc",
+  "file": "/home/yanghao/Code/mprpc/example/user.pb.cc"
+}
+]

@@ -1,0 +1,17 @@
+# ninja log v5
+4	543	1732700286225527514	src/CMakeFiles/mprpc.dir/mprpcconfig.cpp.o	17f5f501c4d45a51
+989	1095	1732766373304411540	../bin/client	6bf7a3987396129f
+2	683	1732758421952935263	src/CMakeFiles/mprpc.dir/logger.cpp.o	1cfe1c1a11a5ccf4
+1252	1453	1732766373660422192	../bin/provider	2207cea991a58f14
+3	973	1732766324194943873	src/CMakeFiles/mprpc.dir/mprpcchannel.cpp.o	48ccd9aed75bf3ce
+4	484	1732700286165525475	src/CMakeFiles/mprpc.dir/mprpccontroller.cpp.o	5c469f0bb88e2104
+0	13	0	clean	a31eedcededa8236
+4	668	1732766323890934797	src/CMakeFiles/mprpc.dir/zookeeperutil.cc.o	62b2511c56e71196
+3	989	1732766373200408429	example/caller/CMakeFiles/client.dir/userclient.cpp.o	5052dfd3e8a9ee76
+5	1183	1732700286865549268	example/callee/CMakeFiles/provider.dir/__/user.pb.cc.o	fe53cade6bab3103
+2	1252	1732766373460416208	example/callee/CMakeFiles/provider.dir/userservice.cpp.o	4efccdad23b148c8
+4	1635	1732766324854963576	src/CMakeFiles/mprpc.dir/rpcprovider.cpp.o	b4db13b817616ff5
+4	1062	1732700286745545189	src/CMakeFiles/mprpc.dir/rpcheader.pb.cc.o	cec270d2e1f8dd21
+6	1183	1732700286865549268	example/caller/CMakeFiles/client.dir/__/user.pb.cc.o	bc9ad16174bb68a6
+1635	1745	1732766324962966801	src/libmprpc.a	c27d0f82123b0a67
+3	678	1732766323898935036	src/CMakeFiles/mprpc.dir/mprpcapplication.cpp.o	7f53caf1a9d9727
